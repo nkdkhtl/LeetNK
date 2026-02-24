@@ -1,4 +1,4 @@
-# LeetNK — LeetCode Solutions (C++)
+# LeetNK — LeetCode Solutions 
 
 [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -6,7 +6,7 @@
 
 ## Tiếng Việt
 
-Repo này dùng để **lưu trữ lời giải LeetCode bằng C++**.
+Repo này dùng để **lưu trữ lời giải LeetCode**.
 
 ### Tự động đồng bộ (Auto-push)
 
@@ -18,13 +18,13 @@ Các bài giải trong repo này được **tự động push** từ repo/extens
 
 ### Cấu trúc thư mục
 
-- `Solution/` — chứa các bài giải (mỗi bài là một file C++ hoặc một thư mục con tùy cách bạn tổ chức)
+- `Solution/` — chứa các bài giải (mỗi bài là một file)
 
 Ví dụ:
 ```text
 Solution/
   0001-Two-Sum.cpp
-  0020-Valid-Parentheses.cpp
+  0020-Valid-Parentheses.py
   ...
 ```
 
